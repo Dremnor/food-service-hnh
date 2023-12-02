@@ -1,5 +1,6 @@
 import Message from "./Message";
-import FoodTable from "./FoodTable";
+import { FoodTable } from "./components/FoodTable"
+
 
 function App(){
   return <div>
